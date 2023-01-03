@@ -17,7 +17,7 @@
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
 		<h3> This projet was deployed using Jenkins!!!</h3><br>
-		<h3>Github Webhook Build Trigger 2</h3><br>
+		<h3>Github Webhook Build Trigger + email notification</h3><br>
 
 <% 
 String ip = "";
