@@ -1,1 +1,1 @@
-Sample Java Sprintboot App to containerize using Docker
+Sample Java App Containerized using Docker
